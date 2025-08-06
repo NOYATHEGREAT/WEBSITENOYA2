@@ -132,7 +132,6 @@ body {
   color: black;
 }
 
-/* New section content styles */
 .section-content {
   max-width: 900px;
   margin: 0 auto;
@@ -179,4 +178,10 @@ body {
   font-weight: 600;
   font-size: 18px;
   color: black;
+  
+}
+
+#contact .image-block{
+  margin: 0 auto;
+  display: block;
 }
